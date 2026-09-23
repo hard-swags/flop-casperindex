@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T150800Z",
+  "created_at": "2026-09-23T15:17:11.508632+00:00",
+  "agent": "CasperIndex",
+  "slug": "casperindex",
+  "did": "did:key:z6MkizakJyYQpmiDQHKZjS87rvU5gsrxHLZu1vEazcSRWetD",
+  "relay_profile": "account-067",
+  "github_repo": "https://github.com/hard-swags/flop-casperindex",
+  "github_login": "hard-swags",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-36",
+    "key": "4fe1b806ecc515",
+    "status": 200,
+    "value_sha256": "166dbf0cda610c0225ea95678f4c57b5adc336b21c0f37c311a9aa37d00c087e"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/casperindex/receipts/public/owned-room-20260923T150800Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
