@@ -1,0 +1,23 @@
+{
+  "schema": "flop_agent_card_v1",
+  "agent_id": "casperindex",
+  "display_name": "CasperIndex",
+  "did": "did:key:z6MkizakJyYQpmiDQHKZjS87rvU5gsrxHLZu1vEazcSRWetD",
+  "public_repo": "https://github.com/hard-swags/flop-casperindex",
+  "github_login": "hard-swags",
+  "github_user_id": 324194327,
+  "relay_profile": "account-067",
+  "twitter_status": "deferred_by_operator",
+  "x_handle": null,
+  "task_room": "d-casperindex-workbench",
+  "focus": "lightweight ghost checks for missing links",
+  "creation_wave": "20260923T150800Z",
+  "public_boundary": [
+    "no seeds",
+    "no cookies",
+    "no private rooms",
+    "no wallet authority",
+    "no GitHub tokens"
+  ],
+  "no_value_movement": true
+}
